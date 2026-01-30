@@ -318,14 +318,11 @@ java -jar target/consulta-0.0.1-SNAPSHOT.jar
 4. Push para a branch
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença Apache 2.0. Veja o arquivo LICENSE para mais detalhes.
 
 ## 👥 Autores
 
 - **Trabalho de WEB II**
-- **GitHub**: https://github.com/Rafadiassss/Consulta
+- **GitHub**: https://github.com/LuisHRodrigues/Consulta
 
 ## 📞 Suporte
 
